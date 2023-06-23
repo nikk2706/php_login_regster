@@ -1,2 +1,2 @@
-# php_login_regster
+# php_login_register
 Using session login and register
